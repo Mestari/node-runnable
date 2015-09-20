@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Mestari",
+    "email": "vmestari@gmail.com"
+  },
+  "name": "runnable",
+  "description": "Simple runnable cluster",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Mestari/node-runnable",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mestari/node-runnable.git"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
